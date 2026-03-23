@@ -256,7 +256,7 @@ ansible -i inventory webservers -m shell -a "uptime"
 
 ### 5. Writing an Ansible Playbook
 
-**File: `first-playbook.yaml`**
+**File: `first-playbook.yml`**
 
 ```yaml
 ---
